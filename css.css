@@ -1,0 +1,108 @@
+ul {
+    list-style-type: none;
+    padding: 30px;
+    margin: 15px;
+    background-color: black;
+    text-align: center;
+    border-radius: 5px;
+
+}
+h1{
+    text-align: center;
+}
+
+li{
+    display: inline;
+    text-align: center;float: ;
+
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    
+    color: red;
+    border-radius: 10px;
+    font-weight: 200;
+    
+
+}
+a:hover{
+    
+    border-radius: 15px;
+    background-color: grey;
+    color: white;
+}
+.home{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.mov{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.web{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.animes{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.sbox{
+    border-radius: 15px;
+    float: right;
+    font-size: 17px;
+}
+.sbut{
+    border-radius: 10px;
+    background-color: red;
+}
+.sbut:hover{
+    background-color: antiquewhite;
+    border-radius: 0px;
+}
+.se{
+    border-radius: 5px;
+
+}
+.link{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+.linka{
+    margin-top: 50px;
+
+
+}
+
+.lin{
+    
+    margin-top: 20px;
+    display: block;
+    position: relative;  
+    text-align: center;  
+    margin-left: auto;
+    margin-right: auto;
+}
+.lik{
+    
+    margin-top: 20px;
+    display: block;
+    position: relative;   
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+}
+.lika{
+    margin-top: 20px;
+}
+.rec{
+    display: block;
+    text-align: center;
+}
